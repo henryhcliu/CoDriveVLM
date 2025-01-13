@@ -5,7 +5,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2501.06132-red.svg)](https://arxiv.org/abs/2501.06132)
 ## Overview
 
-This repository serves as a companion to the manuscript titled "CoDriveVLM: VLM-Enhanced Urban Cooperative Dispatching and Motion Planning for Future Autonomous Mobility on Demand Systems", which is currently under peer review and available as a preprint via arXiv at [https://arxiv.org/pdf/2501.06132](https://arxiv.org/pdf/2501.06132). The research presented in this paper explores the integration of vision-language models (VLMs) into cooperative driving systems for connected autonomous vehicles (CAVs), aiming to improve traffic efficiency and safety performance.
+This repository serves as a companion to the manuscript titled "CoDriveVLM: VLM-Enhanced Urban Cooperative Dispatching and Motion Planning for Future Autonomous Mobility on Demand Systems", which is currently under peer review and available as a preprint via arXiv at [https://arxiv.org/pdf/2501.06132](https://arxiv.org/pdf/2501.06132). The research presented in this paper explores the integration of vision-language models (VLMs) into cooperative driving systems for connected and autonomous vehicles (CAVs), aiming to improve traffic efficiency and safety performance.
 
 <figure>
   <p>
@@ -20,7 +20,7 @@ In this work, we introduce CoDriveVLM, an innovative approach that leverages lar
 
 <figure>
   <p>
-    <img src="https://github.com/user-attachments/assets/cda8a9b8-a525-44f4-a910-4e4f9d541980" alt="Illustrative Image" width="75%" />
+    <img src="https://github.com/user-attachments/assets/cda8a9b8-a525-44f4-a910-4e4f9d541980" alt="Illustrative Image" width="80%" />
     <figcaption>Figure 2: Illustration of the retrieval process for CoDriveVLM.</figcaption>
   </p>
 </figure>
@@ -50,7 +50,7 @@ While the source code is not yet available, we welcome feedback and discussion r
 
 ## Contact Information
 
-For more information or inquiries related to this research, please contact the corresponding author at haichao.liu@connect.ust.hk.
+For more information or inquiries related to this research, please contact haichao.liu@connect.ust.hk.
 
 ## Citation
 
